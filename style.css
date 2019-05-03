@@ -1,0 +1,17 @@
+body {
+    font-family: Verdana, Geneva, sans-serif; 
+    font-size: 15px;
+    background: rgba(128, 128, 128, 0.55);
+}
+
+h1 {
+    color: maroon;
+    background: rgba(255, 255, 255, 0.63);
+    text-align: center;
+    font-family: "Times New Roman", Times, serif; 
+    font-size: 35px;
+}
+
+h2 {
+    color: navy; 
+} 
